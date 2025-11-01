@@ -1,4 +1,3 @@
-malak
 import {
   Dialog,
   DialogContent,
@@ -161,3 +160,4 @@ export function NewAppointmentDialog({ open, onOpenChange, onAddAppointment }: N
     </Dialog>
   );
 }
+
